@@ -1,0 +1,8 @@
+node_modules
+test
+src
+*.ts
+!*.d.ts
+.travis.yml
+bili.config.js
+publish.sh

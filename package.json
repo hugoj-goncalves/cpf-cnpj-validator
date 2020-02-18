@@ -1,6 +1,6 @@
 {
-  "name": "cpf-cnpj-validator",
-  "version": "0.1.1",
+  "name": "@eklesia/cpf-cnpj-validator",
+  "version": "0.1.1-eklesia.0",
   "description": "Valida e formata strings de CPF ou CNPJ.",
   "author": "Carvalho, Vinicius Luiz <carvalho.viniciusluiz@gmail.com>",
   "license": "MIT",
@@ -34,16 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator.git"
+    "url": "git+https://github.com/hugoj-goncalves/cpf-cnpj-validator.git"
   },
   "bugs": {
-    "url": "https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator/issues"
+    "url": "https://github.com/hugoj-goncalves/cpf-cnpj-validator/issues"
   },
-  "homepage": "https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator#readme",
-  "dependencies": {
-    "@hapi/joi": "^15.1.0"
-  },
+  "homepage": "https://github.com/hugoj-goncalves/cpf-cnpj-validator#readme",
   "devDependencies": {
+    "@hapi/joi": "^15.1.0",
     "@types/hapi__joi": "^15.0.3",
     "@types/jest": "^23.3.14",
     "bili": "^3.4.2",
